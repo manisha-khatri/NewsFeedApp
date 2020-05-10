@@ -1,6 +1,5 @@
 A simple news reader application based on the NewsApi API
 <br/>
-<br/>
 - Have a home page with a listing of all the news grouped by the news source (10
 total news sources)
 <br>
